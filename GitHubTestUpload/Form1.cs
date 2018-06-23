@@ -21,6 +21,7 @@ namespace GitHubTestUpload
         {
             MessageBox.Show("Hello Github");
             MessageBox.Show("Hello Githubjjjjjj");
+            MessageBox.Show("Ako si hudas");
         }
     }
 }
